@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Hello!!](https://github.com/harshitagupta06/harshitagupta06/assets/119890674/50374562-1b12-4a14-8067-675c0d207960)
+
 <!--
 **harshitagupta06/harshitagupta06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
